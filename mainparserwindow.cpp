@@ -39,7 +39,7 @@ void MainParserWindow::on_CLEAR_clicked()
 {
     ui->debugSpace->clear();
 
-    //Just an experiment
+    //Just an experiment, downloads math archive from kantiana.ru
     /*QUrl url(ui->RequestLineEdit->text());
     QString site1 = "https://www.kantiana.ru/mathematics/umk/analis";
     QString site2 = ".pdf";
